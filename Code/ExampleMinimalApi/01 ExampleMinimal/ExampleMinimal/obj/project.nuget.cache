@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/uCMFOFyZJJXnU7yKFDxP4S+Kr3J9ngXtkMiWRR8zeP9oOpk3D4zk2w7UWGomR28RXlhYy2x2jpEgYkZcriAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Nabil\\Udemy Microservice Course\\Code\\ExampleMinimalApi\\ExampleMinimal\\ExampleMinimal\\ExampleMinimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhelmy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
