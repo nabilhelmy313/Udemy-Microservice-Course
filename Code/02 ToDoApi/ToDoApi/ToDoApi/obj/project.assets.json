@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nabil\\Udemy Microservice Course\\Code\\ExampleMinimalApi\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+      "projectUniqueName": "D:\\Nabil\\Udemy Microservice Course\\Code\\02 ToDoApi\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
       "projectName": "ToDoApi",
-      "projectPath": "D:\\Nabil\\Udemy Microservice Course\\Code\\ExampleMinimalApi\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+      "projectPath": "D:\\Nabil\\Udemy Microservice Course\\Code\\02 ToDoApi\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
       "packagesPath": "C:\\Users\\nhelmy\\.nuget\\packages\\",
-      "outputPath": "D:\\Nabil\\Udemy Microservice Course\\Code\\ExampleMinimalApi\\ToDoApi\\ToDoApi\\obj\\",
+      "outputPath": "D:\\Nabil\\Udemy Microservice Course\\Code\\02 ToDoApi\\ToDoApi\\ToDoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhelmy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lSPE/M1jOsoN0jhYg/moY1plARx9FwDqesFTk4dREzLfK8yQoapmT6CYrK9pJ9kFcPDgDAKrH7/3bFfKtTuOzw==",
+  "dgSpecHash": "HVn+1/4Hwfxd/UrGPSxJkVss2cWlm8rGwotHmZosUQNqR4rhOes/zMyjfO2YvAwNqyWKygDOyH4scISyXcEj2w==",
   "success": true,
-  "projectFilePath": "D:\\Nabil\\Udemy Microservice Course\\Code\\ExampleMinimalApi\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+  "projectFilePath": "D:\\Nabil\\Udemy Microservice Course\\Code\\02 ToDoApi\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhelmy\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\nhelmy\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
