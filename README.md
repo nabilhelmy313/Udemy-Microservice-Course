@@ -6,4 +6,6 @@
 - **Minimal API**
 - **Carter** for minimal API endpoint.
 - **Mapster** for mapping.
-- **vertiacal slice** divied into featured based slices
+- **Vertical slice**: 
+  - Divided into feature-based slices.
+  - Each slice is self contained and independant
