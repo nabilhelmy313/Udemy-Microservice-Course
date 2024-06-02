@@ -2,7 +2,10 @@
 
 ### Section 5 Annotations
 - **Marten** is used to convert the Postgres SQL database.
-- Use **vertical slicing architectural** with the **CQRS pattern**.
+- Use **vertical slice architectural** with the **CQRS pattern**.
 - **Minimal API**
 - **Carter** for minimal API endpoint.
 - **Mapster** for mapping.
+- **Vertical slice**: 
+  - Divided into feature-based slices.
+  - Each slice is self contained and independant
