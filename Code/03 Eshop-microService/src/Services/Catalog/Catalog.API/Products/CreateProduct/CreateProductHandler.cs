@@ -8,7 +8,7 @@ public record CreateProductCommand(Guid Id,
       decimal Price):ICommand<CreateProductResult>;
 
 public record CreateProductResult(Guid Id);
-internal class CreateProductCommandHandler (IDocumentSession session)
+public class CreateProductCommandHandler (IDocumentSession session)
     : ICommandHandler<CreateProductCommand, CreateProductResult>
 {
     public async Task<CreateProductResult> Handle(CreateProductCommand command, CancellationToken cancellationToken)
