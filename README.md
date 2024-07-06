@@ -10,7 +10,7 @@
   - Divided into feature-based slices.
   - Each slice is self contained and independant
 ### Section 7 Annotations
-- **IPipelineBehavior**
+- **MediatR IPipelineBehavior**
 - pre proccessor behavior
 - Post proccessor behavior
 - make generic validtion
